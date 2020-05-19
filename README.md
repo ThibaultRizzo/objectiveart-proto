@@ -4,13 +4,18 @@ Ce projet est un prototype du mécanisme mis en place pour la définition des di
 
 Pour démarrer le projet, entrer en ligne de commande les instructions suivantes:
 
-### `yarn`
+### `git clone https://github.com/ThibaultRizzo/objectiveart-proto.git`
 
-Va télécharger toutes les librairies nécessaires au projet.
+Va cloner ce repository
 
 ### `cd objectiveart-proto`
 
 Va changer le dossier actuel vers objectiveart-proto
+
+### `yarn`
+
+Va télécharger toutes les librairies nécessaires au projet.
+
 
 ### `yarn start`
 
