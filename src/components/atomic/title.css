@@ -1,0 +1,9 @@
+.title {
+  color: darkred;
+  font-weight: 400;
+  font-size: 2em;
+}
+
+.title.title--bold {
+  font-weight: 800;
+}
