@@ -8,6 +8,10 @@ Pour démarrer le projet, entrer en ligne de commande les instructions suivantes
 
 Va télécharger toutes les librairies nécessaires au projet.
 
+### `cd objectiveart-proto`
+
+Va changer le dossier actuel vers objectiveart-proto
+
 ### `yarn start`
 
 Va démarrer l'application en mode développement.<br />
